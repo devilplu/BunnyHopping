@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{EF710EAC-FA05-C5B5-DF04-98641E24434E}") = "BunnyHopping", "Assembly-CSharp-firstpass.csproj", "{74C3D624-78B4-905D-62E2-90215A7998E1}"
+EndProject
+Project("{EF710EAC-FA05-C5B5-DF04-98641E24434E}") = "BunnyHopping", "Assembly-CSharp.csproj", "{BEE61718-AEEC-94A2-442B-D50C92D87C11}"
+EndProject
+Project("{EF710EAC-FA05-C5B5-DF04-98641E24434E}") = "BunnyHopping", "Assembly-CSharp-Editor.csproj", "{083068D8-9350-94AF-22ED-0EB876977EDA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{74C3D624-78B4-905D-62E2-90215A7998E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74C3D624-78B4-905D-62E2-90215A7998E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74C3D624-78B4-905D-62E2-90215A7998E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74C3D624-78B4-905D-62E2-90215A7998E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BEE61718-AEEC-94A2-442B-D50C92D87C11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEE61718-AEEC-94A2-442B-D50C92D87C11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEE61718-AEEC-94A2-442B-D50C92D87C11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEE61718-AEEC-94A2-442B-D50C92D87C11}.Release|Any CPU.Build.0 = Release|Any CPU
+		{083068D8-9350-94AF-22ED-0EB876977EDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{083068D8-9350-94AF-22ED-0EB876977EDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{083068D8-9350-94AF-22ED-0EB876977EDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{083068D8-9350-94AF-22ED-0EB876977EDA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
