@@ -1,8 +1,8 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Rank\ItemScript.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Rank\RanItemScript.cs">
     <Files>
-      <File FileName="Assets\Scripts\Rank\ItemScript.cs" Line="59" Column="39" />
+      <File FileName="Assets\Scripts\Rank\RanItemScript.cs" Line="17" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
